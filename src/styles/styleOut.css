@@ -1,0 +1,15 @@
+@media(min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+@media(max-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+@media(min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}

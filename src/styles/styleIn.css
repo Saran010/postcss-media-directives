@@ -1,0 +1,15 @@
+@miw(480) {
+    body {
+        background-color: lightgreen;
+    }
+}
+@maw(480) {
+    body {
+        background-color: lightgreen;
+    }
+}
+@miw(480px) {
+    body {
+        background-color: lightgreen;
+    }
+}
